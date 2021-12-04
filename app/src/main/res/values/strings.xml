@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">DashBoard</string>
+    <string name="title_notifications">Home</string>
+    <string name="title_Fragment">New Fragment</string>
+
+</resources>
